@@ -1,1 +1,6 @@
 # NSE-AI-Paper-Trading-Bot
+streamlit>=1.35
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.26
+plotly>=5.20
